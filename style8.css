@@ -1,0 +1,17 @@
+/* style8.css */
+
+/* Customize card titles */
+.card-title {
+  color: #0d6efd;
+  font-weight: bold;
+}
+
+/* Adjust footer text size */
+footer {
+  font-size: 14px;
+}
+
+/* Add spacing between social icons */
+footer a {
+  font-size: 1.5rem;
+}
